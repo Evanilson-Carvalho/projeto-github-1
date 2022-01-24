@@ -1,3 +1,5 @@
 print("hello!")
-name = input("what your name?")
+name = input("qual seu nome?")
 print('hi, %s.' % name)
+idade = input("do que você gosta?")
+print('que legal, %s.' % name)
