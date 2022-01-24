@@ -1,0 +1,5 @@
+print("olá!")
+name = input("qual seu nome?")
+print('oi, %s.' % name)
+idade = input("do que você gosta?")
+print('que legal, %s.' % name)
